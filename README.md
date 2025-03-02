@@ -4,7 +4,7 @@
 A visually engaging tribute to William Shakespeare, featuring an interactive design with motion effects, a vintage color scheme, and highlights of his most famous works.  
 
 🔗 Live Demo  
-[View Project]((https://candid-torte-508944.netlify.app/))  
+[View Project](https://your-github-afridhabegum.github.io/shakespeare-tribute-page/)  
 
 ✨ Features  
 - 🕰️Vintage Aesthetic: Inspired by old manuscripts and classic typography.  
