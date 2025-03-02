@@ -4,7 +4,7 @@
 A visually engaging tribute to William Shakespeare, featuring an interactive design with motion effects, a vintage color scheme, and highlights of his most famous works.  
 
 🔗 Live Demo  
-[View Project](your-github-pages-link)  
+[View Project]([your-github-pages-link](https://github.com/AfridhaBegum/shakespeare-tribute-page.git))  
 
 ✨ Features  
 - 🕰️Vintage Aesthetic: Inspired by old manuscripts and classic typography.  
